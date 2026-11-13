@@ -1,0 +1,3 @@
+interface ReportExporter {
+    void export();
+}
